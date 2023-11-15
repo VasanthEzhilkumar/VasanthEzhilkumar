@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vasanth Kumar Ezhil Kumar</h1>
-<h3 align="center">A passionate Autom</h3>
+<h3 align="center">A passionate Automation Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasanthezhilkumar&label=Profile%20views&color=0e75b6&style=flat" alt="vasanthezhilkumar" /> </p>
 
